@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HoangPhuc
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c# and angular
+- 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me ...
 
 <!---
