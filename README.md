@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HoangPhuc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning .Net, React, NodeJS
+- 👀 I’m interested in Full Stack Developer
+- 🌱 I’m currently learning .Net, React, NodeJS, Angular
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me ...
 
